@@ -9,15 +9,15 @@
 </head>
 <body>
         <article>
-       <h1><a href="/post">Laravel cursus op Laracast</a></h1>
+       <h1><a href="/posts/my-first-post">Laravel cursus op Laracast</a></h1>
              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur inventore itaque accusantium quidem rem nulla, voluptate fugiat odit excepturi reiciendis officia quas saepe error exercitationem possimus voluptates necessitatibus ad unde.</p>
         </article>
          <article>
-             <h1><a href="/post">Mijn nieuwe portfolio website</a></h1>
+             <h1><a href="/posts/my-second-post">Mijn nieuwe portfolio website</a></h1>
              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur inventore itaque accusantium quidem rem nulla, voluptate fugiat odit excepturi reiciendis officia quas saepe error exercitationem possimus voluptates necessitatibus ad unde.</p>
         </article>
               <article>
-             <h1><a href="/post">Mijn derde post</a></h1>
+             <h1><a href="/posts/my-third-post">Mijn derde post</a></h1>
              <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur inventore itaque accusantium quidem rem nulla, voluptate fugiat odit excepturi reiciendis officia quas saepe error exercitationem possimus voluptates necessitatibus ad unde.</p>
         </article>
 </body>
