@@ -1,3 +1,10 @@
+---
+title: My first post
+slug: my-first-post
+excerpt: Lorem ipsum dolor sit amet, consectur adipiscing elit
+date: 2022-01-2
+---
+
 <article>
     <h1><a href="/post">Laravel cursus op Laracast</a></h1>
     <p>
