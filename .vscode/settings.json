@@ -5,5 +5,6 @@
     },
     "[php]": {
         "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
-    }
+    },
+    "editor.linkedEditing": true
 }
