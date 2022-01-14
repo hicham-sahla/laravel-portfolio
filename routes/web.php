@@ -26,6 +26,9 @@ Route::get('/', function () {
 
 Route::get('/projecten', 'App\Http\Controllers\ProjectsController@index')->name('projects.index');
 Route::get('/projecten/create', 'App\Http\Controllers\ProjectsController@create')->name('projects.create');
-Route::get('/projecten/edit', 'App\Http\Controllers\ProjectsController@edit')->name('projects.edit'); 
+Route::get('/projecten/create', 'App\Http\Controllers\ProjectsController@create')->name('projects.edit'); 
 
+// Retrieving data from the projects/create view giving it to the projects controller.
+Route::get('/insert','App\Http\Controllers\ProjectsController@index')->name('project.form');
+Route::post('/create','App\Http\Controllers\ProjectsController@store')->name('project.create');
 
